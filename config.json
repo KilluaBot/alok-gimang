@@ -1,0 +1,19 @@
+{
+  "contactOwner": "62895611406599",
+  "ownerNumber": ["62895611406599@s.whatsapp.net"],
+  "botName": "BOT-JACK",
+  "ownerName": "Jack Off",
+  "pathimg": "./temp/logo.jpg",
+  "footer": "JackBot © 2022",
+  "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
+  "payment": {
+    "gopay": {
+      "nomer": "no found",
+      "atas_nama": "no found"
+    },
+    "dana": {
+      "nomer": "62895611406599",
+      "atas_nama": "Suhakin"
+    }
+  }
+}
